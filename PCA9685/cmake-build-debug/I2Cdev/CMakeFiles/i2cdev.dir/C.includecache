@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.Vd2oeCgEju/src/I2Cdev/I2Cdev.c
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+fcntl.h
+-
+unistd.h
+-
+string.h
+-
+errno.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+linux/i2c-dev.h
+-
+I2Cdev.h
+/tmp/tmp.Vd2oeCgEju/src/I2Cdev/I2Cdev.h
+
+/tmp/tmp.Vd2oeCgEju/src/I2Cdev/I2Cdev.h
+

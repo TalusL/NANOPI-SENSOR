@@ -1,0 +1,5 @@
+include_directories(I2Cdev)
+include_directories(.)
+add_subdirectory(inv_mpu_lib)
+add_library(MotionSensor sensor.cpp)
+target_link_libraries(MotionSensor inv_mpu_lib)

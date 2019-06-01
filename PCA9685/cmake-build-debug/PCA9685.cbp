@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PCA9685"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\I2Cdev\;CMake Files\MotionSensor\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PCA9685">
+				<Option output="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/PCA9685" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/../include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 PCA9685"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PCA9685/fast">
+				<Option output="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/PCA9685" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/../include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 PCA9685/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="i2cdev">
+				<Option output="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/libi2cdev.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/../include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 i2cdev"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="i2cdev/fast">
+				<Option output="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/libi2cdev.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/../include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 i2cdev/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sensor">
+				<Option output="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/libsensor.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/../include"/>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/../I2Cdev"/>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/../MotionSensor"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 sensor"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sensor/fast">
+				<Option output="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/libsensor.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/../include"/>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/../I2Cdev"/>
+					<Add directory="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/../MotionSensor"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/7/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 sensor/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/I2C.cpp">
+			<Option target="PCA9685"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/I2Cdev/I2Cdev.c">
+			<Option target="i2cdev"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/I2Cdev/I2Cdev.h">
+			<Option target="i2cdev"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu.c">
+			<Option target="sensor"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu.h">
+			<Option target="sensor"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu_dmp_motion_driver.c">
+			<Option target="sensor"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu_dmp_motion_driver.h">
+			<Option target="sensor"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/sensor.cpp">
+			<Option target="sensor"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/sensor.h">
+			<Option target="sensor"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/PCA9685.cpp">
+			<Option target="PCA9685"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/main.cpp">
+			<Option target="PCA9685"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/I2Cdev/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\I2Cdev\"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.Vd2oeCgEju/src/MotionSensor/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\MotionSensor\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

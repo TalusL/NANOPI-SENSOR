@@ -1,0 +1,9 @@
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/CMakeFiles/PCA9685.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/CMakeFiles/i2cdev.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/I2Cdev/CMakeFiles/edit_cache.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/CMakeFiles/sensor.dir
+/tmp/tmp.Vd2oeCgEju/src/cmake-build-debug/MotionSensor/CMakeFiles/edit_cache.dir

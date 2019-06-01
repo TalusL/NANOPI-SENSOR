@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/helper_3dmath.h
+
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu.h
+
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu_dmp_motion_driver.h
+
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/sensor.cpp
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+stdint.h
+-
+string.h
+-
+math.h
+-
+helper_3dmath.h
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/helper_3dmath.h
+MotionSensor.h
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/MotionSensor.h
+inv_mpu_lib/inv_mpu.h
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu.h
+inv_mpu_lib/inv_mpu_dmp_motion_driver.h
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/inv_mpu_lib/inv_mpu_dmp_motion_driver.h
+sensor.h
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/sensor.h
+
+/tmp/tmp.Vd2oeCgEju/src/MotionSensor/sensor.h
+
